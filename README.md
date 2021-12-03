@@ -26,6 +26,8 @@ ____
 ____
 
 ### Ссылка
-    [https://oozodozo.github.io/russian-travel/](**Путешествие по России**)
+
+
+[https://oozodozo.github.io/russian-travel/]
 ____
 
