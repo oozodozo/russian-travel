@@ -1,0 +1,11 @@
+.page__link {
+  color: #ffffff;
+  text-decoration: none;
+  -webkit-transition: opacity .6s ease;
+  -o-transition: opacity .6s ease;
+  transition: opacity .3s ease;
+}
+
+.page__link:hover {
+  opacity: .8;
+}
