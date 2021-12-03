@@ -22,7 +22,7 @@
     max-width: 93.75%;
     -ms-grid-columns: 1fr 16px 1fr;
     grid-template-columns: repeat(2, 1fr);
-    gap: 16px
+    gap: 16px;
   }
 }
 
