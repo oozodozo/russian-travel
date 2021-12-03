@@ -28,6 +28,6 @@ ____
 ### Ссылка
 
 
-[https://oozodozo.github.io/russian-travel/]
+https://oozodozo.github.io/russian-travel/
 ____
 
