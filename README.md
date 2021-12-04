@@ -1,7 +1,8 @@
-![Логотип проекта](https://i.ibb.co/n3Hx1K8/logo.png)
+![Логотип проекта](https://i.ibb.co/n3Hx1K8/logo.png) # Путешествие по России
 
-# Путешествие по России
  ### Яндекс.Практикум
+
+
 
 ---
 
@@ -16,10 +17,13 @@
 
  ---
 
+
+
 ## Написан на:
 
 ![Логотип HTML](https://i.ibb.co/qdRGXYx/120px-HTML5-logo-and-wordmark-svg.png)
 ![Логотип CSS](https://i.ibb.co/chZLyL7/CSS3-logo-and-wordmark-svg.png)
+
 
 
 ---
@@ -32,15 +36,18 @@
 + **Медиазапросы**
 + **Относительные величины**
 
+
 ---
 
 ## В планах:
 
 + Добавить **JavaScrips**
 
+
 ---
 
 ## Ссылка:
+
 
 [**Сайт путешествие по России**](https://oozodozo.github.io/russian-travel/)
 
