@@ -6,6 +6,7 @@
   margin: 0;
   padding: 0;
   margin-bottom: 12px;
+  color: #aaa;
 }
 
 @media screen and (max-width: 960px) {

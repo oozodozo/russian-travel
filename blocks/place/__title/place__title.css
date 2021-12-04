@@ -4,20 +4,12 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 106%;
-  max-width: 460px;
-}
-
-@media screen and (max-width: 1140px) {
-  .place__title {
-    max-width: 440px;
-  }
 }
 
 @media screen and (max-width: 960px) {
   .place__title {
     font-size: 42px;
     line-height: 110%;
-    max-width: 340px;
   }
 }
 
@@ -26,6 +18,5 @@
     font-size: 32px;
     line-height: 35px;
     padding-left: 16px;
-    max-width: 288px;
   }
 }
